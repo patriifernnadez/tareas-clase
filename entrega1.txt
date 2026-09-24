@@ -1,3 +1,2 @@
 SEMANA 1 
 Esta es mi primera entrega utilizando Git y GitHub.
-tfvytuy
